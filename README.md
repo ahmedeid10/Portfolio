@@ -23,7 +23,7 @@ Welcome to my personal portfolio. I am a **Frontend Web Developer**. This projec
 ## 📂 My Projects Gallery
 
 ### ☕ Coffee Shop Website
-🔗 [Live Demo](https://ahmedeid10.github.io/coffee-shop/)
+🔗 [Live Demo](https://ahmedeid10.github.io/Coffee/)
 📸 **Preview:** ![Main](assets/img/coffeProject/main.png)
 📌 **Description:** A clean and responsive website for a coffee shop.
 
