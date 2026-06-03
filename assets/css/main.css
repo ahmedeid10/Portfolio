@@ -487,6 +487,7 @@ section,
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 .hero img {
@@ -501,7 +502,7 @@ section,
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 70%);
+  background: rgba(0, 0, 0, 0.815);;
   position: absolute;
   inset: 0;
   z-index: 2;
@@ -681,7 +682,8 @@ section,
 
 /* Colors */
 .html { background: #f97316; }
-.css { background: #3b82f6; }
+.css,
+.matrial { background: #3b82f6; }
 .js { background: #facc15; }
 .bootstrap { background: #7c3aed; }
 .react { background: #22d3ee; }
@@ -689,6 +691,7 @@ section,
 .github { background: #000; }
 .tailwind { background: #38bdf8; }
 .soft { background: #000; }
+
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
